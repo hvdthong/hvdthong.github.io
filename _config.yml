@@ -16,10 +16,9 @@
 title: MatJek
 description: > # this means to ignore newlines until "baseurl:"
   Material theme based on <a href="http://materializecss.com">Materialize.css</a> for jekyll sites
-baseurl: "/hvdthong"
 url: "https://hvdthong.github.io"
 permalink: /:year/:month/:day/:title
-repository: ShawnTeoh/matjek
+repository: hvdthong
 paginate: 5
 
 # MatJek specific configurations
