@@ -24,9 +24,6 @@ paginate: 5
 # MatJek specific configurations
 user: "Thong Hoang (James)"
 user_email: "vdthoang.2016@smu.edu.sg"
-# contact_url: "https://goo.gl/tVljbV"
-# google_tracking_id: "UA-96359860-1"
-# google_site_verification: "UA-96359860-1"
 disqus_shortname: "jhoang"
 
 # Build settings
