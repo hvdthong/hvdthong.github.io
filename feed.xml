@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" >
 <generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator>
 <link href="https://hvdthong.github.io/feed.xml" rel="self" type="application/atom+xml" />
-<!--<link rel="canonical" href="https://hvdthong.github.io/" />-->
+<link rel="canonical" href="https://hvdthong.github.io/" />
 <link rel="icon" type="image/png" sizes="32x32" href="https://hvdthong.github.io/assets/images/james.jpg" />
 <link rel="icon" type="image/png" sizes="16x16" href="https://hvdthong.github.io/assets/images/james.jpg" />
 <link href="https://hvdthong.github.io/" rel="alternate" type="text/html" /><updated>2019-09-17T21:43:10-07:00</updated><id>https://hvdthong.github.io/feed.xml</id><title type="html">Thong Hoang’s Home Page</title><subtitle></subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="https://hvdthong.github.io/jekyll/update/2018/10/13/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-10-13T00:21:02-07:00</published><updated>2018-10-13T00:21:02-07:00</updated><id>https://hvdthong.github.io/jekyll/update/2018/10/13/welcome-to-jekyll</id><content type="html" xml:base="https://hvdthong.github.io/jekyll/update/2018/10/13/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
