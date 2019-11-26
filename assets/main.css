@@ -56,7 +56,7 @@ figure > img {
 
 figcaption {
   font-size: 14px; }
-  
+
  */
 
 
@@ -513,7 +513,7 @@ table {
   perspective: 1px;
   vertical-align: middle;
   width: 140px;
-  border-radius: 50%; }
+  border-radius: 0%; }
 
 .pull-right {
   float: right; }
