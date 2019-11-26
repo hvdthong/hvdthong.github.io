@@ -51,12 +51,14 @@ img {
 
 /**
  * Figures
- */
 figure > img {
   display: block; }
 
 figcaption {
   font-size: 14px; }
+  
+ */
+
 
 /**
  * Lists
