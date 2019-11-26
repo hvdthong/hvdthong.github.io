@@ -51,13 +51,12 @@ img {
 
 /**
  * Figures
+ */
 figure > img {
-  display: block; }
+display: block; }
 
 figcaption {
   font-size: 14px; }
-
- */
 
 
 /**
@@ -507,13 +506,14 @@ table {
     color: #008080; }
   .highlight .il {
     color: #099; }
-
+/**
 .profile {
   overflow: hidden;
   perspective: 1px;
   vertical-align: middle;
   width: 140px;
   border-radius: 0%; }
+*/
 
 .pull-right {
   float: right; }
