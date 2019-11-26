@@ -511,8 +511,7 @@ table {
   perspective: 1px;
   vertical-align: middle;
   width: 140px;
-  border-radius: 0%; }
-
+  border-radius: 100%; }
 
 .pull-right {
   float: right; }
